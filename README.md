@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zoran Janjic
-- 👀 I’m interested in fullstack Java and MERN stack.
+- 👀 I’m interested in fullstack development.
 - 📫 How to reach me ... janjiczoran23@gmail.com
 
 
