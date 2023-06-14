@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **janjiczoran23@gmail.com**
 
-- ⚡ Fun fact **Did you know that a group of flamingos is called a flamboyance?**
+- ⚡ Fun fact **Did you know that the average person spends about six months of their lifetime waiting for red traffic lights to turn green? That's a lot of time spent just sitting in the car, patiently waiting for the signal to change. So, the next time you find yourself at a red light, you can ponder this fun fact and maybe even appreciate the extra time to relax and enjoy a moment of stillness in your busy day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
