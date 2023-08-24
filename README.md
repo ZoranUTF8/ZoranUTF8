@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Meet Japan**
 
-- 🌱 I’m currently learning **Typescript, GraphQL , React Native, CI/CD**
+- 🌱 I’m currently learning **Data Science with Python and Neural Networks in Python**
 
 - 👨‍💻 Some of my projects are available at [https://zoran-janjic.netlify.app/](https://zoran-janjic.netlify.app/)
 
