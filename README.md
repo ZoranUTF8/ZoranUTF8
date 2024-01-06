@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoranutf8" alt="zoranutf8" /></a> </p>
 
-- 🔭 I’m currently working on **Meet Japan**
+
 
 - 🌱 I’m currently learning **Data Science with Python and Neural Networks in Python**
 
