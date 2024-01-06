@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoran </h1>
-<h3 align="center">I am a highly motivated and enthusiastic full-stack developer with experience in React.js, JavaScript, Bootstrap, Node.js, and Express.js. I have a strong passion for creating visually appealing and user-friendly websites.</h3>
+<h3 align="center">I am a highly motivated and enthusiastic full-stack developer with experience in Python3, Flask, FastAPI, PyTest, React.js, JavaScript, Bootstrap, Node.js, and Express.js. I have a strong passion for creating visually appealing and user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoranutf8&label=Profile%20views&color=0e75b6&style=flat" alt="zoranutf8" /> </p>
 
