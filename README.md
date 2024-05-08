@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zoran </h1>
 <h3 align="center">
-    I am a highly motivated and enthusiastic software engineer with a background in Python3, Flask, FastAPI, PyTest, React.js, Jest, JavaScript, Bootstrap, Node.js, Express.js, and data science. I have a strong passion for creating visually appealing and user-friendly applications, and I have gained valuable experience working with Amazon Web Services as well.
+    I am a highly motivated and enthusiastic software engineer with a background in Python3, Flask, FastAPI, PyTest, React.js, Jest, JavaScript, Bootstrap, Node.js, and Express.js. I have a strong passion for creating visually appealing and user-friendly applications, and I have gained valuable experience working with Amazon Web Services as well.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoranutf8&label=Profile%20views&color=0e75b6&style=flat" alt="zoranutf8" /> </p>
